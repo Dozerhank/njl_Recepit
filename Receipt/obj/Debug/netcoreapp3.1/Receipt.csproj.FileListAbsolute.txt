@@ -1,0 +1,14 @@
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Receipt\Receipt\Receipt\bin\Debug\netcoreapp3.1\Receipt.exe
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Receipt\Receipt\Receipt\bin\Debug\netcoreapp3.1\Receipt.deps.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Receipt\Receipt\Receipt\bin\Debug\netcoreapp3.1\Receipt.runtimeconfig.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Receipt\Receipt\Receipt\bin\Debug\netcoreapp3.1\Receipt.runtimeconfig.dev.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Receipt\Receipt\Receipt\bin\Debug\netcoreapp3.1\Receipt.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Receipt\Receipt\Receipt\bin\Debug\netcoreapp3.1\Receipt.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Receipt\Receipt\Receipt\obj\Debug\netcoreapp3.1\Receipt.csproj.AssemblyReference.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Receipt\Receipt\Receipt\obj\Debug\netcoreapp3.1\Receipt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Receipt\Receipt\Receipt\obj\Debug\netcoreapp3.1\Receipt.AssemblyInfoInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Receipt\Receipt\Receipt\obj\Debug\netcoreapp3.1\Receipt.AssemblyInfo.cs
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Receipt\Receipt\Receipt\obj\Debug\netcoreapp3.1\Receipt.csproj.CoreCompileInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Receipt\Receipt\Receipt\obj\Debug\netcoreapp3.1\Receipt.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Receipt\Receipt\Receipt\obj\Debug\netcoreapp3.1\Receipt.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Receipt\Receipt\Receipt\obj\Debug\netcoreapp3.1\Receipt.genruntimeconfig.cache
